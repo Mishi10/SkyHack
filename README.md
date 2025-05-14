@@ -31,7 +31,7 @@ Click [here](https://colab.research.google.com/) to open Google Colab.
 In your Colab notebook, clone the project repository using the following command:
 
 ```python
-!git clone https://github.com/Khushitatwal/skyhack.git
+!git clone https://github.com/Mishi10/skyhack.git
 ```
 ### 3. Change the directory
 Once the repository is cloned, navigate to the project directory:
